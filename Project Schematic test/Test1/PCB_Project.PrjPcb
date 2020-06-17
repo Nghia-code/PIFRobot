@@ -107,7 +107,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
+<<<<<<< Updated upstream
 DocumentPath=..\..\Lib download\altium_lib\altium_lib\Active-Component\BJT.SchLib
+=======
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\BJT.PcbLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +128,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
+<<<<<<< Updated upstream
 DocumentPath=..\..\Lib download\altium_lib\altium_lib\Active-Component\Diode.PcbLib
+=======
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\BJT.SchLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +149,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
+<<<<<<< Updated upstream
 DocumentPath=..\..\Lib download\altium_lib\altium_lib\Active-Component\Diode.SchLib
+=======
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\Diode.PcbLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +170,79 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
+<<<<<<< Updated upstream
 DocumentPath=..\..\Lib download\altium_lib\altium_lib\Active-Component\LED.PcbLib
+=======
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\Diode.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\LED.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\LED.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\MOSFET.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=..\..\Lib download\altium_lib\Active-Component\MOSFET.SchLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

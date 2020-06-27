@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=VCC_245 Pin=U5-1
+Removed Pin From Net: NetName=NetCR1_10 Pin=U5-2
+Removed Pin From Net: NetName=NetCR1_3 Pin=U5-3
+Removed Pin From Net: NetName=NetCR1_11 Pin=U5-4
+Removed Pin From Net: NetName=NetCR1_5 Pin=U5-5
+Removed Pin From Net: NetName=NetCR1_4 Pin=U5-6
+Removed Pin From Net: NetName=NetCR1_6 Pin=U5-7
+Removed Pin From Net: NetName=GND Pin=U5-10
+Removed Pin From Net: NetName=MTR2_ENB Pin=U5-13
+Removed Pin From Net: NetName=MTR1_ENB Pin=U5-14
+Removed Pin From Net: NetName=MTR2_DIR Pin=U5-15
+Removed Pin From Net: NetName=MTR2_PWM Pin=U5-16
+Removed Pin From Net: NetName=MTR1_DIR Pin=U5-17
+Removed Pin From Net: NetName=MTR1_PWM Pin=U5-18
+Removed Pin From Net: NetName=GND Pin=U5-19
+Removed Pin From Net: NetName=VCC_245 Pin=U5-20
+Removed Member From Class: ClassName=Sheet4 Member=U5
+Added Component: Designator=M4(HC-05-06-TH)
+Added Component: Designator=M5(HC-05-06-SMD)
+Added Component: Designator=P2(jp3)
+Added Component: Designator=P3(jp3)
+Added Component: Designator=P4(jp3)
+Added Component: Designator=U3(74HC245,625)
+Added Pin To Net: NetName=BLU_RX Pin=M4-2
+Added Pin To Net: NetName=BLU_TX Pin=M4-3
+Added Pin To Net: NetName=GND Pin=M4-4
+Added Pin To Net: NetName=5V Pin=M4-5
+Added Pin To Net: NetName=BLU_ENB Pin=M4-6
+Added Pin To Net: NetName=BLUE_TX Pin=M5-1
+Added Pin To Net: NetName=BLUE_RX Pin=M5-2
+Added Pin To Net: NetName=NetM5_11 Pin=M5-11
+Added Pin To Net: NetName=3v3_BLU Pin=M5-12
+Added Pin To Net: NetName=GND Pin=M5-13
+Added Pin To Net: NetName=GND Pin=M5-21
+Added Pin To Net: NetName=GND Pin=M5-22
+Added Pin To Net: NetName=NetM5_24 Pin=M5-24
+Added Pin To Net: NetName=BLU_KEY_HC06 Pin=M5-26
+Added Pin To Net: NetName=Net2_1 Pin=M5-31
+Added Pin To Net: NetName=NetC7_1 Pin=M5-32
+Added Pin To Net: NetName=BLU_KEY_HC05 Pin=M5-34
+Added Pin To Net: NetName=3V3 MCU Pin=P2-1
+Added Pin To Net: NetName=BOOT0 Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=BOOT1 Pin=P3-2
+Added Pin To Net: NetName=3V3 MCU Pin=P3-3
+Added Pin To Net: NetName=SWDIO Pin=P4-1
+Added Pin To Net: NetName=SWCLK Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=VCC_245 Pin=U3-1
+Added Pin To Net: NetName=NetCR1_10 Pin=U3-2
+Added Pin To Net: NetName=NetCR1_3 Pin=U3-3
+Added Pin To Net: NetName=NetCR1_11 Pin=U3-4
+Added Pin To Net: NetName=NetCR1_5 Pin=U3-5
+Added Pin To Net: NetName=NetCR1_4 Pin=U3-6
+Added Pin To Net: NetName=NetCR1_6 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=MTR2_ENB Pin=U3-13
+Added Pin To Net: NetName=MTR1_ENB Pin=U3-14
+Added Pin To Net: NetName=MTR2_DIR Pin=U3-15
+Added Pin To Net: NetName=MTR2_PWM Pin=U3-16
+Added Pin To Net: NetName=MTR1_DIR Pin=U3-17
+Added Pin To Net: NetName=MTR1_PWM Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=VCC_245 Pin=U3-20
+Added Member To Class: ClassName=Sheet5 Member=Component M4 HC05-06-TH
+Added Member To Class: ClassName=Sheet5 Member=Component M5 HC-05-06-SMD
+Added Member To Class: ClassName=Sheet7 Member=Component M6 NRF24L01
+Added Member To Class: ClassName=Sheet2 Member=Component P2 
+Added Member To Class: ClassName=Sheet2 Member=Component P3 
+Added Member To Class: ClassName=Sheet2 Member=Component P4 Header 3
+Added Member To Class: ClassName=Sheet4 Member=Component U3 74HC245
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

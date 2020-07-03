@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Added Member To Class: ClassName=Sheet1 Member=Component C9 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C13 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C14 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C34 Cap-100nF-50V-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C35 Cap-10uF-50V-0805
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C9 Old Footprint=WCAP-CSGP_0402_H=0.5mm New Footprint=CAP-SM-0805
+Change Component Comment : Designator=C9 Old Comment=10uF/50V New Comment=Cap-10uF-50V-0805
+Change component parameters: Designator = "C9"; Footprint = "CAP-SM-0805"; UniqueID = "\TWEXESME"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-10uf-50v-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX5R9BB106"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KKX5R9BB106/311-3499-2-ND/7164383"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part Number"; Value = "311-3499-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U4 L7805-SMD
+Added Member To Class: ClassName=Sheet6 Member=Component U4 CP2102-GM
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

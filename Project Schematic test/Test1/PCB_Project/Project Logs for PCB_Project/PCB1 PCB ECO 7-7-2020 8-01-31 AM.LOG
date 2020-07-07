@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=3V3_MC Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=M3-1
+Removed Pin From Net: NetName=3V3_RF Pin=M3-2
+Removed Pin From Net: NetName=NetM3_3 Pin=M3-3
+Removed Pin From Net: NetName=NetCR1_38 Pin=M3-4
+Removed Pin From Net: NetName=NetCR1_39 Pin=M3-5
+Removed Pin From Net: NetName=NetCR1_41 Pin=M3-6
+Removed Pin From Net: NetName=NetCR1_40 Pin=M3-7
+Removed Pin From Net: NetName=NetCR1_33 Pin=M3-8
+Removed Member From Class: ClassName=DecaWave Member=D9
+Change Component Designator: OldDesignator=*3 NewDesignator=*2
+Change Component Designator: OldDesignator=C19 NewDesignator=C17
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=M4 NewDesignator=M3
+Change Component Designator: OldDesignator=M5 NewDesignator=M4
+Change Component Designator: OldDesignator=M6 NewDesignator=M5
+Change Component Designator: OldDesignator=M7 NewDesignator=M6
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U7 NewDesignator=U9
+Change Component Designator: OldDesignator=U8 NewDesignator=U10
+Added Component: Designator=C20(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-10uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX5R9BB106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KKX5R9BB106/311-3499-2-ND/7164383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "311-3499-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=M1(NRF24L01)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local supply"; Value = "Hshop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local supply link"; Value = "https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=3V3_MC Pin=C20-2
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=3V3_RF Pin=M1-2
+Added Pin To Net: NetName=NetM3_3 Pin=M1-3
+Added Pin To Net: NetName=NetCR1_38 Pin=M1-4
+Added Pin To Net: NetName=NetCR1_39 Pin=M1-5
+Added Pin To Net: NetName=NetCR1_41 Pin=M1-6
+Added Pin To Net: NetName=NetCR1_40 Pin=M1-7
+Added Pin To Net: NetName=NetCR1_33 Pin=M1-8
+Change Net Name : Old Net Name=NetM3_3 New Net Name=NetM1_3
+Added Member To Class: ClassName=DecaWave Member=Component D7 LED
+Added Member To Class: ClassName=RF Member=Component M1 NRF24L01
+Added Member To Class: ClassName=RF Member=Component M3 LC12S

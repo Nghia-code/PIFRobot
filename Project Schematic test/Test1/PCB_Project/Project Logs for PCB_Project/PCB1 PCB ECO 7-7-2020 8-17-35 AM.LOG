@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3_MC Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=NetCR1_45 Pin=U6-3
+Removed Pin From Net: NetName=NetCR1_46 Pin=U6-4
+Removed Member From Class: ClassName=Sensor Member=U6
+Change Component Designator: OldDesignator=*2 NewDesignator=*1
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Added Component: Designator=U8(GY 9250)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3_MC Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetCR1_45 Pin=U8-3
+Added Pin To Net: NetName=NetCR1_46 Pin=U8-4
+Added Member To Class: ClassName=Sensor Member=Component U8 GY 9250

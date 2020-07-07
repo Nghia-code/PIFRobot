@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=3V3_MC Pin=D9-1
+Removed Pin From Net: NetName=NetD9_2 Pin=D9-2
+Removed Member From Class: ClassName=Power Supply Member=C1
+Removed Member From Class: ClassName=Power Supply Member=C2
+Removed Member From Class: ClassName=Wifi Member=C3
+Removed Member From Class: ClassName=RF Member=C4
+Removed Member From Class: ClassName=Wifi Member=C4
+Removed Member From Class: ClassName=Wifi Member=C5
+Removed Member From Class: ClassName=Motor Control Member=C7
+Removed Member From Class: ClassName=Motor Control Member=C8
+Removed Member From Class: ClassName=Power Supply Member=C9
+Removed Member From Class: ClassName=Power Supply Member=C10
+Removed Member From Class: ClassName=Power Supply Member=C11
+Removed Member From Class: ClassName=MCU Member=C23
+Removed Member From Class: ClassName=Wifi Member=C25
+Removed Member From Class: ClassName=Wifi Member=C26
+Removed Member From Class: ClassName=Power Supply Member=C28
+Removed Member From Class: ClassName=RF Member=C31
+Removed Member From Class: ClassName=RF Member=C32
+Removed Member From Class: ClassName=Motor Control Member=M1
+Removed Member From Class: ClassName=Bluetooth Member=M3
+Removed Member From Class: ClassName=Bluetooth Member=M4
+Removed Member From Class: ClassName=Bluetooth Member=M5
+Removed Member From Class: ClassName=Sensor Member=M8
+Removed Member From Class: ClassName=MCU Member=P4
+Removed Member From Class: ClassName=RF Member=P4
+Removed Member From Class: ClassName=DecaWave Member=P10
+Removed Member From Class: ClassName=MCU Member=P10
+Removed Member From Class: ClassName=Bluetooth Member=P23
+Removed Member From Class: ClassName=DecaWave Member=P25
+Removed Member From Class: ClassName=RF Member=P25
+Removed Member From Class: ClassName=Bluetooth Member=P26
+Removed Member From Class: ClassName=Power Supply Member=P26
+Removed Member From Class: ClassName=MCU Member=P29
+Removed Member From Class: ClassName=MCU Member=P30
+Removed Member From Class: ClassName=MCU Member=Q2
+Removed Member From Class: ClassName=Power Supply Member=R1
+Removed Member From Class: ClassName=Wifi Member=R7
+Removed Member From Class: ClassName=Motor Control Member=R9
+Removed Member From Class: ClassName=Wifi Member=R9
+Removed Member From Class: ClassName=DecaWave Member=R12
+Removed Member From Class: ClassName=Wifi Member=R12
+Removed Member From Class: ClassName=DecaWave Member=R14
+Removed Member From Class: ClassName=Power Supply Member=R14
+Removed Member From Class: ClassName=Wifi Member=R14
+Removed Member From Class: ClassName=DecaWave Member=R16
+Removed Member From Class: ClassName=MCU Member=R19
+Removed Member From Class: ClassName=DecaWave Member=R21
+Removed Member From Class: ClassName=MCU Member=R21
+Removed Member From Class: ClassName=Wifi Member=R21
+Removed Member From Class: ClassName=Bluetooth Member=R24
+Removed Member From Class: ClassName=Motor Control Member=R25
+Removed Member From Class: ClassName=Motor Control Member=R28
+Removed Member From Class: ClassName=Motor Control Member=R30
+Removed Member From Class: ClassName=DecaWave Member=R34
+Removed Member From Class: ClassName=Bluetooth Member=S3
+Removed Member From Class: ClassName=MCU Member=S3
+Removed Member From Class: ClassName=Motor Control Member=S3
+Removed Member From Class: ClassName=DecaWave Member=S5
+Removed Member From Class: ClassName=Motor Control Member=S5
+Removed Member From Class: ClassName=Wifi Member=U1
+Removed Member From Class: ClassName=Power Supply Member=U2
+Removed Member From Class: ClassName=Power Supply Member=U5
+Added Component: Designator=D7(LED_0603_Blue)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3_MC Pin=D7-1
+Added Pin To Net: NetName=NetD9_2 Pin=D7-2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD7_2
+Added Member To Class: ClassName=MCU Member=Component C6 Cap-1nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C10 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Motor Control Member=Component C12 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Motor Control Member=Component C13 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C14 Cap Pol SMD
+Added Member To Class: ClassName=Power Supply Member=Component C15 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C16 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C18 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C19 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C20 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C21 Cap-10uF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component C22 Cap-100nF-50V-0805
+Added Member To Class: ClassName=RF Member=Component C24 Cap-1nF-50V-0805
+Added Member To Class: ClassName=RF Member=Component C25 Cap-1nF-50V-0805
+Added Member To Class: ClassName=RF Member=Component C27 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component C30 TAJB107M006RNJ
+Added Member To Class: ClassName=Wifi Member=Component C31 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component C33 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component C34 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component C35 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Bluetooth Member=Component D1 LED
+Added Member To Class: ClassName=MCU Member=Component D7 LED
+Added Member To Class: ClassName=Bluetooth Member=Component M2 HC-05-06-SMD
+Added Member To Class: ClassName=Motor Control Member=Component M4 DRV8825
+Added Member To Class: ClassName=Sensor Member=Component M9 GY 9250
+Added Member To Class: ClassName=Bluetooth Member=Component P1 Header 3
+Added Member To Class: ClassName=Bluetooth Member=Component P2 Header 3
+Added Member To Class: ClassName=DecaWave Member=Component P3 Header 4
+Added Member To Class: ClassName=DecaWave Member=Component P6 Header 2
+Added Member To Class: ClassName=MCU Member=Component P7 Header 3
+Added Member To Class: ClassName=MCU Member=Component P8 
+Added Member To Class: ClassName=MCU Member=Component P9 
+Added Member To Class: ClassName=Power Supply Member=Component P24 691322310002
+Added Member To Class: ClassName=RF Member=Component P27 Header 2
+Added Member To Class: ClassName=RF Member=Component P28 Header 2
+Added Member To Class: ClassName=MCU Member=Component Q1 MMBT3904-1AM
+Added Member To Class: ClassName=Bluetooth Member=Component R2 Res-1K-0805
+Added Member To Class: ClassName=DecaWave Member=Component R4 Res-0-0805
+Added Member To Class: ClassName=DecaWave Member=Component R5 Res-0-0805
+Added Member To Class: ClassName=DecaWave Member=Component R6 Res-0-0805
+Added Member To Class: ClassName=DecaWave Member=Component R8 Res-1K-0805
+Added Member To Class: ClassName=DecaWave Member=Component R10 Res-1K-0805
+Added Member To Class: ClassName=MCU Member=Component R11 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R13 Res-0-0805
+Added Member To Class: ClassName=Motor Control Member=Component R17 Res-1K-0805
+Added Member To Class: ClassName=Motor Control Member=Component R18 Res-1K-0805
+Added Member To Class: ClassName=Motor Control Member=Component R20 Res-1K-0805
+Added Member To Class: ClassName=Motor Control Member=Component R22 Res-1K-0805
+Added Member To Class: ClassName=Power Supply Member=Component R23 Res-1K-0805
+Added Member To Class: ClassName=Wifi Member=Component R29 Res-0-0805
+Added Member To Class: ClassName=Wifi Member=Component R31 Res-0-0805
+Added Member To Class: ClassName=Wifi Member=Component R32 Res-470-0805
+Added Member To Class: ClassName=Wifi Member=Component R34 Res-470-0805
+Added Member To Class: ClassName=Bluetooth Member=Component S1 434113043826
+Added Member To Class: ClassName=DecaWave Member=Component S2 434113043826
+Added Member To Class: ClassName=MCU Member=Component S4 434113043826
+Added Member To Class: ClassName=Motor Control Member=Component S6 418117170903
+Added Member To Class: ClassName=Motor Control Member=Component S7 418117170903
+Added Member To Class: ClassName=Power Supply Member=Component U3 L7805-SMD
+Added Member To Class: ClassName=Power Supply Member=Component U4 XC6204B181MR
+Added Member To Class: ClassName=Wifi Member=Component U8 CP2102-GM
+Added Room: Name=Bluetooth
+Added Room: Name=DecaWave
+Added Room: Name=MCU
+Added Room: Name=Motor Control
+Added Room: Name=Power Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi

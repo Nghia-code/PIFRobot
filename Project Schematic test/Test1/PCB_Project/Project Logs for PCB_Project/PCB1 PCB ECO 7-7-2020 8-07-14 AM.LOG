@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3V3_MC Pin=M6-1
+Removed Pin From Net: NetName=GND Pin=M6-2
+Removed Pin From Net: NetName=NetCR1_45 Pin=M6-3
+Removed Pin From Net: NetName=NetCR1_46 Pin=M6-4
+Removed Member From Class: ClassName=RF Member=M1
+Removed Member From Class: ClassName=Sensor Member=M5
+Removed Member From Class: ClassName=Motor Control Member=U6
+Removed Member From Class: ClassName=Motor Control Member=U9
+Removed Member From Class: ClassName=Power Supply Member=U9
+Removed Member From Class: ClassName=Sensor Member=U9
+Change Component Designator: OldDesignator=M1 NewDesignator=M3
+Change Component Designator: OldDesignator=M3 NewDesignator=M4
+Change Component Designator: OldDesignator=M4 NewDesignator=M5
+Change Component Designator: OldDesignator=M5 NewDesignator=M6
+Added Component: Designator=U6(GY 9250)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3_MC Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetCR1_45 Pin=U6-3
+Added Pin To Net: NetName=NetCR1_46 Pin=U6-4
+Change Net Name : Old Net Name=NetM1_3 New Net Name=NetM3_3
+Added Member To Class: ClassName=Power Supply Member=Component C20 Cap-10uF-50V-0805
+Added Member To Class: ClassName=RF Member=Component M4 LC12S
+Added Member To Class: ClassName=RF Member=Component M6 HC12
+Added Member To Class: ClassName=Motor Control Member=Component U3 DRV8825
+Added Member To Class: ClassName=Motor Control Member=Component U4 DRV8825
+Added Member To Class: ClassName=Power Supply Member=Component U5 L7805-SMD
+Added Member To Class: ClassName=Sensor Member=Component U6 GY 9250
+Added Member To Class: ClassName=Sensor Member=Component U7 74HC14D,652

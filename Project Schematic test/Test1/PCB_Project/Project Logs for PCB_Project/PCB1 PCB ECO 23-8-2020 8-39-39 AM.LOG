@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=12V Pin=U3-1
+Removed Pin From Net: NetName=5V Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Member From Class: ClassName=Motor Control Member=*3
+Removed Member From Class: ClassName=Wifi Member=U6
+Added Component: Designator=PI1(D2PAk)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L7805CD2T-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=PI1-1
+Added Pin To Net: NetName=GND Pin=PI1-2
+Added Pin To Net: NetName=5V Pin=PI1-3
+Added Member To Class: ClassName=Motor Control Member=Component *1 DRV8825
+Added Member To Class: ClassName=Bluetooth Member=Component C2 Cap-1nF-50V-0805
+Added Member To Class: ClassName=Power Supply Member=Component PI1 L7805-SMD
+Added Member To Class: ClassName=DecaWave Member=Component S2 434113043826
+Added Member To Class: ClassName=Power Supply Member=Component U4 XC6204B181MR
+Added Member To Class: ClassName=Sensor Member=Component U5 74HC14D,652
+Added Member To Class: ClassName=Sensor Member=Component U6 GY 9250
+Added Member To Class: ClassName=Wifi Member=Component U8 IRLML6402TRPBF

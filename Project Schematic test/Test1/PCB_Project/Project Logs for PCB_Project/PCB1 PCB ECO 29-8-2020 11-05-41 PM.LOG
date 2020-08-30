@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=5V_USB Pin=J2-1
+Removed Pin From Net: NetName=USB_D_N Pin=J2-2
+Removed Pin From Net: NetName=USB_D_P Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Member From Class: ClassName=Wifi Member=J2
+Added Component: Designator=J?(CONN_105017-0001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.molex.com/pdm_docs/sd/1050170001_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "105017-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Molex_2020-05-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_USB Pin=J?-1
+Added Pin To Net: NetName=USB_D_N Pin=J?-2
+Added Pin To Net: NetName=USB_D_P Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Member To Class: ClassName=Wifi Member=Component J? 105017-0001
+Added Member To Class: ClassName=Wifi Member=Component R29 Res-0-0805

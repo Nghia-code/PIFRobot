@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=M3 Old Footprint=JP2H New Footprint=GY 9250
+Change Component Library : Designator=M3 Old Library=Integrated_Library_Test.IntLib New Library=Schlib1.SchLib
+Added Pin To Net: NetName=NetCR1_45 Pin=M3-3
+Added Pin To Net: NetName=NetCR1_46 Pin=M3-4
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

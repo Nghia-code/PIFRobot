@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Member From Class: ClassName=Sheet5 Member=C22
+Added Component: Designator=C7(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-1nf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Johanson Dielectrics Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "101X15W102MV4E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/johanson-dielectrics-inc/101X15W102MV4E/709-1335-1-ND/2327235"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "709-1335-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=BLU_KEY Pin=C7-2
+Added Member To Class: ClassName=Sheet5 Member=Component C7 Cap-1nF-50V-0805
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

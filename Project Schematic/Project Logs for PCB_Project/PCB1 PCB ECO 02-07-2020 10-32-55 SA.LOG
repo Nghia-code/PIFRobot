@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=12V Pin=C8-2
+Added Component: Designator=C8(CAP ALU SIZE B)
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=12V Pin=C8-2
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Cap Non-Pol SMD
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

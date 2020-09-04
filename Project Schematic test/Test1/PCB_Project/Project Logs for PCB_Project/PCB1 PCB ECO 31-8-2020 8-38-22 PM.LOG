@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=tsts1 NewDesignator=P6
-Added Room: Name=Bluetooth
-Added Room: Name=DecaWave
-Added Room: Name=MCU
-Added Room: Name=Motor Control
-Added Room: Name=Power Supply
-Added Room: Name=RF
-Added Room: Name=Sensor
-Added Room: Name=Wifi

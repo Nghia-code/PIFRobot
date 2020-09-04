@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Added Component: Designator=S1(418117170903)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator Type"; Value = "Flat Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/418117170903.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "800g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "418117170903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Non-Switching"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Switching"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Non-Switching"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Switching"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Component: Designator=S2(418117170903)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator Type"; Value = "Flat Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/418117170903.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "800g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "418117170903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Non-Switching"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Switching"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Non-Switching"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Switching"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=NetM1_5 Pin=S1-4
+Added Pin To Net: NetName=NetM1_6 Pin=S1-5
+Added Pin To Net: NetName=NetM1_7 Pin=S1-6
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=NetM2_5 Pin=S2-4
+Added Pin To Net: NetName=NetM2_6 Pin=S2-5
+Added Pin To Net: NetName=NetM2_7 Pin=S2-6
+Change Net Name : Old Net Name=NetB?_2 New Net Name=NetB1_2
+Added Member To Class: ClassName=Sheet4 Member=Component S1 418117170903
+Added Member To Class: ClassName=Sheet4 Member=Component S2 418117170903
+Added Room: Name=Sheet1
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5
+Added Room: Name=Sheet6
+Added Room: Name=Sheet7
+Added Room: Name=Sheet8

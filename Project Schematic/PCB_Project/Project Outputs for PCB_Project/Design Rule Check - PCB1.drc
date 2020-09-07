@@ -1,10 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : F:\PIF\PIFRobot\Project Schematic\PCB_Project\PCB1.PcbDoc
-Date     : 9/5/2020
-Time     : 11:05:36 AM
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: Top Layer-No Net
+PCB File : D:\Pif course\PIWRobot1\Project Schematic\PCB_Project\PCB1.PcbDoc
+Date     : 5/9/2020
+Time     : 9:53:39 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -16,8 +13,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Not Repour After Edit  (Top Layer-No Net) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=6mil) (Max=15mil) (Preferred=8mil) (All)
 Rule Violations :0
@@ -47,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=10000mil) (Prefered=500mil) 
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
